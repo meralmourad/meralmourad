@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/meralmourad/meralmourad/languages-output/languages.svg" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=meralmourad&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=40&order=3" height="220" alt="streak graph"  />
 </div>
 
