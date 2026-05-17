@@ -1,3 +1,10 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/meralmourad/meralmourad/languages-output/languages.svg" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=meralmourad&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=40&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
@@ -30,17 +37,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clion/clion-original.svg" height="40" alt="clion logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/meralmourad/meralmourad/languages-output/languages.svg" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=meralmourad&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=40&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
